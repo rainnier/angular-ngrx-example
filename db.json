@@ -1,0 +1,14 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "Salmon Fishing in the Yemen",
+            "author": "Paul Torday"
+        },
+        {
+            "id": 2,
+            "title": "Harry Potter",
+            "author": "J.K. Rowling"
+        }
+    ]
+}
